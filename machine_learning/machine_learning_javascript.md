@@ -2,9 +2,12 @@
 
 ## Infos
 
-@jawache
-codecraft.tv
 asim hussain
+
+twitter: @jawache
+
+codecraft.tv
+
 aijs.rocks
 
 themojifier.com
