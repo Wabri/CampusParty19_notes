@@ -1,6 +1,6 @@
-#  the future of machine learning and javascript
+#  The Future of Machine Learning and JavaScript
 
-## infos
+## Infos
 
 @jawache
 codecraft.tv
@@ -28,6 +28,4 @@ https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matchin
 [Tfjs-models github](https://github.com/tensorflow/tfjs-models)
 
 Simply use tensorflow in mobile
-
-## Domande
 
