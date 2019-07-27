@@ -105,5 +105,3 @@ Shortcut:
 * F1 estrae informazioni su variabili, librerie e dataset selezionati
 * F2 visualizzazione del dataset sotto forma di csv direttamente nella console
 
-## Domande
-
