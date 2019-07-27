@@ -1,11 +1,12 @@
 # Big data for real
 
-Vanlog
+[Vanlog](http://www.vanlog.it/)
 
-http://www.vanlog.it/
+[Claudio Ferrara](https://github.com/Ferric2004)
 
-claudio ferrara
-andrea melloncelli
+[Andrea Melloncelli](https://github.com/andreamelloncelli)
+
+[Mariachiara Fortuna](https://github.com/mariachiarafortuna)
 
 ## Chi è e cosa fa Vanlog
 
