@@ -90,6 +90,8 @@ library(tidyr)
 library(tidyverse)
 ```
 
+**Utile**: Microbenchmark library serve per calcolare i tempi di esecuzione di un comando.
+
 Questa è la base, se necessarie altre informazioni guarda i link [qui](#r)
 
 ## R studio
@@ -101,7 +103,6 @@ Shortcut:
 * ctrl+enter esecuzione comando in r console
 * F1 estrae informazioni su variabili, librerie e dataset selezionati
 * F2 visualizzazione del dataset sotto forma di csv direttamente nella console
-
 
 ## Domande
 
