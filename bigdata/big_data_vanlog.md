@@ -105,3 +105,16 @@ Shortcut:
 * F1 estrae informazioni su variabili, librerie e dataset selezionati
 * F2 visualizzazione del dataset sotto forma di csv direttamente nella console
 
+## Architettura
+
+Uno dei problemi principali di instaurare una architettura di questo tipo è la quantità dei dati che è necessario caricare in memoria.
+
+Per esempio abbiamo un csv su disco, quando andiamo a leggerlo è necessario
+caricarlo in memoria e quindi la necessità di avere un hardware con capacità
+relativamente grandi in base al problema. Se il csvb è di 1 milione di righe
+avremo bisogno di una ram molto alta, mentre se abbiamo 300mila righe non
+abbiamo bisogno della stessa quantità di memoria. Stesso problema per quanto
+riguarda la memoria fissa, quindi la rom.
+
+La soluzione intermedia per evitare problematiche di memoria è facendo uso di
+database.
