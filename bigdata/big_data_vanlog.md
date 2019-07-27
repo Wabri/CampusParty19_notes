@@ -1,11 +1,12 @@
 # Big data for real
 
-Vanlog
+[Vanlog](http://www.vanlog.it/)
 
-http://www.vanlog.it/
+[Claudio Ferrara](https://github.com/Ferric2004)
 
-claudio ferrara
-andrea melloncelli
+[Andrea Melloncelli](https://github.com/andreamelloncelli)
+
+[Mariachiara Fortuna](https://github.com/mariachiarafortuna)
 
 ## Chi è e cosa fa Vanlog
 
@@ -64,6 +65,8 @@ media <- mean(c(1,2,30))
 media
 ```
 
+Output:
+
 ```Output
 [1] 11
 ```
@@ -73,6 +76,8 @@ media
 mean_two <- function(x,y) {(x+y)/2}
 mean_two(3,5)
 ```
+
+Output:
 
 ```Output
 [1] 4
@@ -86,6 +91,8 @@ library(tidyr)
 library(tidyverse)
 ```
 
+**Utile**: Microbenchmark library serve per calcolare i tempi di esecuzione di un comando.
+
 Questa è la base, se necessarie altre informazioni guarda i link [qui](#r)
 
 ## R studio
@@ -97,7 +104,4 @@ Shortcut:
 * ctrl+enter esecuzione comando in r console
 * F1 estrae informazioni su variabili, librerie e dataset selezionati
 * F2 visualizzazione del dataset sotto forma di csv direttamente nella console
-
-
-## Domande
 
