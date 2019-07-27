@@ -64,6 +64,8 @@ media <- mean(c(1,2,30))
 media
 ```
 
+Output:
+
 ```Output
 [1] 11
 ```
@@ -73,6 +75,8 @@ media
 mean_two <- function(x,y) {(x+y)/2}
 mean_two(3,5)
 ```
+
+Output:
 
 ```Output
 [1] 4
