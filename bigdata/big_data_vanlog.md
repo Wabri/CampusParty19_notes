@@ -118,3 +118,11 @@ riguarda la memoria fissa, quindi la rom.
 
 La soluzione intermedia per evitare problematiche di memoria è facendo uso di
 database.
+
+Scalare e aumentare la quantità di memoria non può funzionare a lungo, è per questo che è stato pensato di usare i cluster.
+
+<!-- [spiego queste diverse strutture nel blog]() -->
+
+Importante la funzione di hdfs: fa una sorta di backup non totale per ogni singolo database nel cluster dei server.
+
+Spark: implementazione di hdfs, molto più efficiente di hadoop.
