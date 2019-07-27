@@ -18,12 +18,15 @@ macchina di turing: algoritmo che sta alla base della descrizione dei computer
 
 ## Paradigmi dell'intelligenza artificiale:
 
-* simbolici: planning, kr rapresentation (logiche, sistemi di produzione, frames, probabilità), machine learning
-* subsimbolici: genetic algoritms and programming, neural network, agenti, swarm, ......
+* simbolici: planning, kr rapresentation (logiche, sistemi di produzione,
+frames, probabilità), machine learning
+* subsimbolici: genetic algoritms and programming, neural network, agenti,
+swarm, ......
 
 ## Proiezioni
 
-Da qui al 2049 le macchine potranno fare tutto, per la precisione entro 120 anni verranno sostituiti tutti i lavori di automazione.
+Da qui al 2049 le macchine potranno fare tutto, per la precisione entro 120
+anni verranno sostituiti tutti i lavori di automazione.
 
 Epoche:
 
@@ -36,9 +39,10 @@ Epoche:
 
 ## Modello economico
 
-Se non analizziamo il contesto in cui viviamo sarà impossibile ottenere buoni risultato utilizzando la ai.
+Se non analizziamo il contesto in cui viviamo sarà impossibile ottenere buoni
+risultato utilizzando la ai.
 
-## Architettura dell-intelligenza artificiale
+## Architetture dell'intelligenza artificiale
 
 * cloud - data centers
 * fog - nodes
