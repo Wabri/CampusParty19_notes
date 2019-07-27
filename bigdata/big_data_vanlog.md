@@ -4,9 +4,9 @@
 
 [Claudio Ferrara](https://github.com/Ferric2004)
 
-[Andrea Melloncelli](https://github.com/andreamelloncelli)
+[Andrea Melloncelli](https://github.com/andreamelloncelli): andrea.melloncelli@vanlog.it
 
-[Mariachiara Fortuna](https://github.com/mariachiarafortuna)
+[Mariachiara Fortuna](https://github.com/mariachiarafortuna): mariachiara.fortuna@vanlog.it
 
 ## Chi è e cosa fa Vanlog
 
