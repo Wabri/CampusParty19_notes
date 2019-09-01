@@ -111,7 +111,7 @@ Uno dei problemi principali di instaurare una architettura di questo tipo è la 
 
 Per esempio abbiamo un csv su disco, quando andiamo a leggerlo è necessario
 caricarlo in memoria e quindi la necessità di avere un hardware con capacità
-relativamente grandi in base al problema. Se il csvb è di 1 milione di righe
+relativamente grandi in base al problema. Se il csv è di 1 milione di righe
 avremo bisogno di una ram molto alta, mentre se abbiamo 300mila righe non
 abbiamo bisogno della stessa quantità di memoria. Stesso problema per quanto
 riguarda la memoria fissa, quindi la rom.
@@ -121,7 +121,7 @@ database.
 
 Scalare e aumentare la quantità di memoria non può funzionare a lungo, è per questo che è stato pensato di usare i cluster.
 
-<!-- [spiego queste diverse strutture nel blog]() -->
+[spiego queste diverse strutture nel mio blog](https://wabri.github.io/post/enterprise_nosql/)
 
 Importante la funzione di hdfs: fa una sorta di backup non totale per ogni singolo database nel cluster dei server.
 

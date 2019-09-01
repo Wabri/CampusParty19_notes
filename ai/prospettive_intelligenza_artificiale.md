@@ -10,9 +10,15 @@ piero.poccianti@gmail.com
 
 [associazione italiana intelligenza artificiale](https://aixia.it/)
 
+[Presentazione del talk](https://drive.google.com/file/d/1KkRGVH0k_dpaczhLXiNACs_7AETgCI0g/view)
+
 ## Intro
 
-il congresso di dartmouth
+Il congresso di dartmouth:
+>«Lo studio procederà sulla base della congettura per cui, in linea
+>di principio, ogni aspetto dell’apprendimento o una qualsiasi
+>altra caratteristica dell’intelligenza possano essere descritte così
+>precisamente da poter costruire una macchina che le simuli.»
 
 macchina di turing: algoritmo che sta alla base della descrizione dei computer
 
@@ -30,12 +36,11 @@ anni verranno sostituiti tutti i lavori di automazione.
 
 Epoche:
 
-1.
-2.
-3.
+1. Conoscenze iniettate: nessuna capacità di apprendimento e astrazione, limitata capacità di previsione
+2. Apprendimento statistico: nessuna capacità di adattamento contestuale e poca abilità di ragionamento
+3. Adattamento contestuale
 
-(me le sono perse, mandare mail al tizio)
-
+Siamo tra la seconda e la terza epoca.
 
 ## Modello economico
 
